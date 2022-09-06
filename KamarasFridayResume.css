@@ -1,0 +1,53 @@
+body{ 
+    background-color: hotpink;
+}
+
+.logo{ 
+    width: 75px;
+    height: auto; 
+}
+
+.CardBox{ 
+    width: 80%;
+    height: auto;
+    border: black solid;
+}
+
+.CardContainer{ 
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+
+.CardText{ 
+    margin: 10px;
+    border: 1px blue solid;
+    padding-top: 65px;
+}
+
+iframe{ 
+    border-radius: 50%;
+}
+
+hr{ 
+    border: 1px dotted black;
+
+}
+
+.BETLogo{ 
+    width: 100px;
+    height: auto;
+}
+
+.BikeLogo{ 
+    width: 100px;
+    height: auto;
+
+}
+
+.btncontainer{ 
+width: 80%;
+border: solid red; 
+display: flex;
+justify-content: space-between; 
+}
